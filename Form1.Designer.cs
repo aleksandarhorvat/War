@@ -62,7 +62,7 @@
             // btDraw
             // 
             this.btDraw.DialogResult = System.Windows.Forms.DialogResult.Cancel;
-            this.btDraw.Location = new System.Drawing.Point(216, 279);
+            this.btDraw.Location = new System.Drawing.Point(239, 301);
             this.btDraw.Margin = new System.Windows.Forms.Padding(4);
             this.btDraw.Name = "btDraw";
             this.btDraw.Size = new System.Drawing.Size(129, 28);
@@ -83,7 +83,7 @@
             // btAgain
             // 
             this.btAgain.DialogResult = System.Windows.Forms.DialogResult.Cancel;
-            this.btAgain.Location = new System.Drawing.Point(216, 279);
+            this.btAgain.Location = new System.Drawing.Point(239, 301);
             this.btAgain.Margin = new System.Windows.Forms.Padding(4);
             this.btAgain.Name = "btAgain";
             this.btAgain.Size = new System.Drawing.Size(129, 28);
@@ -136,7 +136,7 @@
             // 
             this.btShuffle.AutoSize = true;
             this.btShuffle.DialogResult = System.Windows.Forms.DialogResult.Cancel;
-            this.btShuffle.Location = new System.Drawing.Point(16, 279);
+            this.btShuffle.Location = new System.Drawing.Point(38, 301);
             this.btShuffle.Margin = new System.Windows.Forms.Padding(4);
             this.btShuffle.Name = "btShuffle";
             this.btShuffle.Size = new System.Drawing.Size(132, 28);
@@ -163,7 +163,6 @@
             this.versionToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Padding = new System.Windows.Forms.Padding(8, 2, 0, 2);
             this.menuStrip1.Size = new System.Drawing.Size(627, 28);
             this.menuStrip1.TabIndex = 11;
             this.menuStrip1.Text = "menuStrip1";
@@ -180,7 +179,7 @@
             this.versionToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.toolStripMenuItem2});
             this.versionToolStripMenuItem.Name = "versionToolStripMenuItem";
-            this.versionToolStripMenuItem.Size = new System.Drawing.Size(72, 24);
+            this.versionToolStripMenuItem.Size = new System.Drawing.Size(71, 24);
             this.versionToolStripMenuItem.Text = "Version";
             // 
             // toolStripMenuItem2
